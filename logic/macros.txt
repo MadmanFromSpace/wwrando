@@ -78,7 +78,7 @@ Can Access Forest Haven:
   # Grappling over the waterfall is very difficult without killing the Boko Baba there - but only if you start grappling from the top. You can grapple from the bottom up to avoid that Boko Baba entirely, so there's no extra requirement here for swordless.
 Can Access Dungeon Entrance In Forest Haven Sector:
   Can Access Forest Haven
-  & Grappling Hook
+  # & Grappling Hook
   & Can Fly With Deku Leaf Outdoors
   & (Can Cut Grass | Magic Meter Upgrade)
   # You either need double magic or the ability to refill your magic by cutting grass to make it all the way across.
