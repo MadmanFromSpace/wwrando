@@ -3175,7 +3175,7 @@ Five-Star Isles - Sunken Treasure:
     - sea/Room49.arc/ScalableObject007
     - sea/Room49.arc/ScalableObject008
     - sea/Room49.arc/ScalableObject009
-=======
+
 #Outset Island - Aryll's Birthday Gift:
 #  Need:
 #  Original item: Telescope
