@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Can Play Wind's Requiem:
   Wind Waker & Wind's Requiem
 Can Play Ballad of Gales:
@@ -1110,4 +1109,3 @@ Chart for Island 49: Treasure Chart 33
 
 TODO:
   Impossible
->>>>>>> e7d94b8f8ac2dba1822cb665a124018a7eda63d0
