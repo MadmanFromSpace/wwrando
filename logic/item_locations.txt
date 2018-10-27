@@ -770,7 +770,7 @@ Forest Haven - On Tree Branch:
 #    - main.dol@358D38
 Forest Haven - Small Island Chest:
   Need:
-    Can Access Forest Haven
+    Can Fly With Deku Leaf Outdoors
   # Note: You don't need Grappling Hook because you can take the lower platform exit out of Forest Haven, fly to the pillar outside, then fly east to this small island (Noob Skip). You can just barely make it without double magic meter as long as your magic meter is full. But this is not currently in the logic.
   Original item: Treasure Chart 3
   Types: Other Chest
